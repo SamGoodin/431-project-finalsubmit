@@ -1,0 +1,44 @@
+Users
+ID,Prefix,First Name,Last Name,Email,Password,Phone,Register Date,Approved,Approval Date,Last Login Date,Active,Confirmed,Notification Email
+1,Sam       ,admin guy,Sharpe,cs@gmail.com,samuelgoo,0123456789,1/1/1973 12:00:00 AM,True,1/1/1973 12:00:00 AM,1/1/1999 12:00:00 AM,no,,ab@gmail.com
+2,,Jimmy,Neutron,jimmyN@aol.com,brainblast,1813581932,1/1/2012 12:00:00 AM,True,1/1/2019 12:00:00 AM,1/1/2019 12:00:00 AM,no,,123@hotmail.com
+6,Me        ,John,Doe,jdoe@email.com,password321,3175556543,6/18/2012 10:34:09 AM,True,6/18/2012 10:34:09 AM,6/18/2012 10:34:09 AM,Yes,No,thisisan@email.com
+7,Mr        ,Steve,Irwin,gators@email.com,password321,3175555432,3/12/2020 4:01:10 AM,True,3/12/2020 4:01:10 AM,3/12/2020 4:01:10 AM,Yes,No,gators2@email.com
+8,Miss      ,Marie,Lambs,chops@email.com,password123,3176474456,3/12/2020 4:05:09 AM,True,3/12/2020 4:05:09 AM,3/12/2020 4:05:09 AM,Yes,No,notificationemail@gmail.com
+9,Mr        ,Sahwn,Righter,the@email.com,password123,5555555555,3/12/2020 12:53:01 PM,True,3/12/2020 12:53:01 PM,3/12/2020 12:53:01 PM,Yes,No,they@email.com
+10,Miss      ,Oskar,KLADJSfKLAF,oskar@email.com,password123,5555555555,3/12/2020 12:55:04 PM,True,3/12/2020 12:55:04 PM,3/12/2020 12:55:04 PM,Yes,No,lkasdfj@email.com
+11,          ,Agent,Smith,smith@email.com,greatpassword,7654637382,3/25/2020 3:19:49 PM,True,3/25/2020 3:19:49 PM,3/25/2020 3:19:49 PM,Yes,No,agent@email.com
+12,Mr        ,Test FName,Test LName,nametest@email.com,password123,7654637747,3/27/2020 2:41:16 PM,True,3/27/2020 2:41:16 PM,3/27/2020 2:41:16 PM,Yes,No,nametest@iu.edu
+13,Mr        ,Shawn,Righter,srighter@iu.edu,password123,7654838485,3/27/2020 3:06:02 PM,True,3/27/2020 3:06:02 PM,3/27/2020 3:06:02 PM,Yes,No,notify@email.com
+14,          ,TestUserRegister1-Change Name tested,TUR1-Change last name tested,tur1@email.com,password123,7654637384 TESTED,4/27/2020 1:55:42 PM,True,4/27/2020 1:55:42 PM,4/27/2020 1:55:42 PM,Yes,No,notificationemail@gmail.com tested!
+15,          ,TestUserRegister2,TUR2,tur2@email.com,password123,3174536456,4/27/2020 10:35:54 PM,True,4/27/2020 10:35:54 PM,4/27/2020 10:35:54 PM,Yes,No,notificationemail@gmail.com tested!
+16,Mr.       ,Samuel,Goodin,samuelgoodin@sbcglobal.net,v111111111,3174649224,4/27/2020 11:05:49 PM,True,4/27/2020 11:05:49 PM,4/27/2020 11:05:49 PM,Yes,No,samuelgoodin@sbcglobal.net
+17,          ,Test User 3,TUR3,tur3@email.com,password123,3174757685,4/28/2020 10:41:05 AM,True,4/28/2020 10:41:05 AM,4/28/2020 10:41:05 AM,Yes,No,notification@email.com
+18,Mr        ,TestUserTested,User Last Name,tur4@email.com,password1234,3175647383,4/28/2020 11:07:02 AM,True,4/28/2020 11:07:02 AM,4/28/2020 11:07:02 AM,Yes,No,notification@email.com
+Managers
+ManagerID,FirstName,LastName,Email,Password,Phone,Prefix,Suffix,Approved,ApprovalDate,RegisterDate,LastLoginDate,Active,NotificationEmail
+6,Test,Person,email@email.com,password123,3176667733,,,No,03252020,03252020,03252020,Yes,notifyemail@email.com
+9,Thing,One,one@email.com,greatpassword,7654565455,Mr,,Yes,,,,No,notify@email.com
+10,Test Manager Fname,Test Manager Lname,manager@email.com,password123,7654637384,,,Yes,,,,No,manager@iu.edu
+11,Manager Shawn,Righter,srighter@email.com,password123,7654678765,,,No,,,,No,notification@email.com
+12,Test Manager Fname2,Test Manager Lname 2,test2@email.com,password123,7658484858,,,Yes,,04/15/2020,04/15/2020,Yes,notification@email.com
+14,TestManagerRegister1,TestLastName1,testmgr1@email.com,password123,3175647465,,,No,,04/16/2020,04/16/2020,Yes,notification@email.com
+15,TestManagerRegister2,TestLastName2,testmgr2@email.com,password123,7654837485,,,No,,04/16/2020,04/16/2020,Yes,notification@email.com
+16,Sam,Goodin,sagoodin@iu.edu,password123,3174649224,,,Yes,,04/16/2020,04/16/2020,Yes,samuelgoodin@sbcglobal.net
+17,Test 2,Test Last Name 2,test3@email.com,password123,7658475847,,,No,,04/16/2020,04/16/2020,Yes,notification@email.com
+18,Test manager 2,TM2,tm2@email.com,password123,6878685868,,,No,,04/21/2020,04/21/2020,Yes,notification@email.com
+19,Test Manager 3,TM3,tm3@email.com,password123,7654565678,,,Yes,,04/21/2020,04/21/2020,Yes,notification@email.com
+20,Test Program MGR1,MGR1Last Name,pmgr1@email.com,password123,7564783742,,,Yes,,04/27/2020,04/27/2020,Yes,notification@email.com
+21,Program,Manager,sagoodin@iu.edu,v111111111,3174649224,,,Yes,,04/27/2020,04/27/2020,Yes,samuelgoodin@sbcglobal.net
+22,John,Doe,jdoe@email.com,password123,7654758675,,,Yes,,04/28/2020,04/28/2020,Yes,notification@email.com
+Admin
+ID,FirstName,LastName,Email,Password,Phone,AccessLevel,CreateDate,LastLoginDate,NotificationEmail
+2,admin guy,last,adminguy@iu.edu,431stinksimtired,3176545676,2,3/10/2020,3/11/2020,1hgi3@iu.edu
+3,Coolguy2,Administrator,cool@gmail.com,password123,8382919205,3,2/15/2002,2/19/2019,ohi@gmail.com
+4,Fred,Claus,fredclaus@email.com,password123,7648337392,2,,,notification@email.com
+5,Test,Admin,admin@email.com,password123,3174567777,2,,,none@email.com
+6,Shawn,Righter,srighter@iu.edu,password123,7654563746,2,,,notification@email.com
+7,Post,Malone,postie@email.com,Password123,,2,,,
+9,Test2,Test2LastName,test44@email.com,password123,,2,Apr  6 202,,
+8,Test,Admin,email@email.com,password123,,2,,,
+10,Admin,Level 2edited,admin@email.com,v111111111,,2,Apr 27 202,,
